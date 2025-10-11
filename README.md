@@ -9,4 +9,4 @@ Przewodnik dostępny jest na [stronie](https://magdamadejwsb.github.io/ZPW_INLN5
 # Technologie
 - html, css, javascript, git, github  
 
-Chcesz pomóc? Super!Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
+Chcesz pomóc? Super! Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
